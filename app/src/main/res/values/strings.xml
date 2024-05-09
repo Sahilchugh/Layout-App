@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout App</string>
+    <string name="welcome">Welcome</string>
+    <string name="click_on_the_image_to_authenticate">Click on the image to authenticate</string>
+    <string name="authentication_successful">Authentication Successful</string>
+    <string name="authentication_error">Authentication Error</string>
+    <string name="authentication_success">Authentication Successful</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="please_authenticate">Please authenticate to continue</string>
+    <string name="cancel">Cancel</string>
+</resources>
